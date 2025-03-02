@@ -1,7 +1,7 @@
-## Hi there! 👋 I'm Luna!
+## Hi there 👋 I'm Luna!
 
-- 🔭 I’m currently working on creating a portfolio website
-- 😄 Pronouns: she/they
+- 🔭 I’m currently working on creating a portfolio website with my [brother's](https://github.com/jamesericdavidson) help
+- 😄 Pronouns: *she/they*
 
 <!--
 **lunarjpg/lunarjpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
