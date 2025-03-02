@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Luna!
 
-- 🔭 I’m currently working on creating a portfolio website
+- 🔭 I’m currently working on creating a portfolio website with my [brother's](https://github.com/jamesericdavidson) help.
 - 😄 Pronouns: she/they
 
 <!--
